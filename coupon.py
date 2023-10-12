@@ -1,6 +1,4 @@
-import re
 from selenium import webdriver
-from datetime import datetime
 import pymysql
 
 import sys
