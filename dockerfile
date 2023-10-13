@@ -13,4 +13,4 @@ RUN pip install selenium==3.141.0
 RUN pip install lxml==4.6.3
 
 
-CMD ["make local-run"]
+CMD ["make run"]

@@ -9,4 +9,4 @@ local-run:
 	python3 coupon.py 
 
 run:
-	python businessDistrict.py 
+	python coupon.py 
