@@ -7,3 +7,6 @@ export DB_HOST DB_PORT DB_USER DB_PASSWARD DB_DATABASE
 
 local-run:
 	python3 coupon.py 
+
+run:
+	python businessDistrict.py 
